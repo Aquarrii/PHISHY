@@ -1,0 +1,19 @@
+.active{
+    color: #dc3545 !important;
+}
+
+.nav{
+    background: #1e2124 !important;
+}
+
+.brand{
+    font-family: "Nanum Brush Script", serif;
+}
+
+.navLink {
+    font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+.dropdownNavLink:active {
+    background-color: #dc3545 !important;
+}
